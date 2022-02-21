@@ -21,3 +21,8 @@ java -jar Abalone.jar -s <PORT>
 java -jar Abalone.jar -c <ADDRESS> <PORT>
 ```
 
+## License
+Game is licensed under GNU/LGPL version 2.1.
+
+## Used software
+JavaZoom JLayer for playing mp3 sounds (LGPL)
